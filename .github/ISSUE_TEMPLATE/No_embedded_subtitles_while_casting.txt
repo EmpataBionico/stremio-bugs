@@ -1,0 +1,36 @@
+---
+name: Bug report No embedded video subtitles while casting
+about: When casting videos with embedded subtitles they do not show on tv/android tv/chromecast
+title: No embedded video subtitles while casting
+labels: ''
+assignees: ''
+
+---
+
+**Describe the bug**
+Video embedded subtitles do not work while casting to a tv/chromecast, i have tested on various Operative systems also, not exclusive to ubuntu, 
+for movies its not a problem due to there are a lot of external subtittles, but for animes it is, since you cannot cast and have to watch it on the device.
+appreciate the help, awsome app, thanyou so much in advance.
+
+**To Reproduce**
+Steps to reproduce the behavior:
+Open any video with embedded subtitles (most animes have them, in case you dont have a video like that)
+cast video to a chromecast or android tv
+you'll see the subtitles option on smartphone / pc dissapear, since it only cast downloaded subtitles.
+
+**Expected behavior**
+Subtitle option still present in the device to select.
+Subtitles being casted to tv / chromecast.
+
+**Screenshots**
+If applicable, add screenshots to help explain your problem.
+
+**Desktop (please complete the following information):**
+ - OS: Windows 10 - 11/ ubuntu - latest
+
+**Smartphone (please complete the following information):**
+ - Device: Xiaomi
+ - OS: Android
+
+**Additional context**
+Add any other context about the problem here.
